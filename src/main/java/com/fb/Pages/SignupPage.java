@@ -1,5 +1,7 @@
 package com.fb.Pages;
 
-public class SignupPage {
+import com.fb.Name.Testbase;
+
+public class SignupPage extends Testbase{
 
 }

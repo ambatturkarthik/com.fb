@@ -6,7 +6,7 @@ public class HomePage extends Testbase{
   
   public static void main(String[] args)
   {
-    System.Out.Println("This is Homepage");
+    System.out.println("This is Homepage");
   }
 
 }
